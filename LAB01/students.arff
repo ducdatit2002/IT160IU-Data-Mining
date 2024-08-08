@@ -1,0 +1,14 @@
+@RELATION students
+
+@ATTRIBUTE name STRING
+@ATTRIBUTE class STRING
+@ATTRIBUTE average_score REAL
+@ATTRIBUTE extracurricular STRING
+@ATTRIBUTE special_achievement STRING
+
+@DATA
+"Nguyễn Văn A","10A",9.5,"Đội trưởng đội bóng đá","Huy chương vàng toán"
+"Trần Thị B","10B",9.7,"Thành viên CLB Văn học","Giải nhất cuộc thi viết"
+"Lê Văn C","10C",9.2,"Chủ tịch Hội học sinh","Học bổng quốc tế"
+"Phạm Thị D","10A",9.6,"Thành viên CLB Khoa học","Giải nhì cuộc thi Vật lý"
+"Hoàng Văn E","10B",9.3,"Thành viên CLB Âm nhạc","Giải nhất cuộc thi hát"
