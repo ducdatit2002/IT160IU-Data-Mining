@@ -1,0 +1,10 @@
+@relation test_documents
+
+@attribute document string
+@attribute class {yes,no}
+
+@data
+"Oil platforms extract crude oil", ?
+"Canola oil is supposed to be healthy", ?
+"Iraq has significant oil reserves", ?
+"There are different types of cooking oil", ?
